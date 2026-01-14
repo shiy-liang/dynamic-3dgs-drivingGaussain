@@ -7,7 +7,3 @@ The goal is to integrate real SLAM trajectories with 3DGS to achieve
 temporally consistent reconstruction and rendering for dynamic scenes.
 
 Work in progress.
-
-## External Dependencies
-
-- ORB-SLAM3 (for camera pose estimation)
